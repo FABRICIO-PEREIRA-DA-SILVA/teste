@@ -222,7 +222,7 @@ const ModalMapa = ({ currentLocation, historico, onClose }) => {
         ) : (
           <p
             style={{
-              color: "green",
+              color: "red",
               fontSize: "24px",
               textAlign: "center",
               fontWeight: "bold",
